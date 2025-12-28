@@ -1,0 +1,15 @@
+flask
+flask-restful
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+statsmodels
+requests
+beautifulsoup4
+plotly
+matplotlib
+seaborn
+dill
+python-dotenv
